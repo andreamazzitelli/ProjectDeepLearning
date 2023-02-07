@@ -17,7 +17,7 @@ import os
 
 import datasets
 
-_URL = "https://github.com/andrear632/ProjectDeepLearning/blob/main/dataset_differentiate+round+evaluate_2000000.zip?raw=true"
+_URL = "https://github.com/andrear632/ProjectDeepLearning/blob/master/dataset_differentiate+round+evaluate_2000000.zip?raw=true"
 
 
 class MathDataset(datasets.GeneratorBasedBuilder):

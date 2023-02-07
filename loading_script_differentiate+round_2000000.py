@@ -30,7 +30,7 @@ _DESCRIPTION = """
 This is our personalized script to load the mathematical datasets
 """
 
-_URL = "https://github.com/andrear632/ProjectDeepLearning/blob/main/dataset_differentiate+round_2000000.zip?raw=true"
+_URL = "https://github.com/andrear632/ProjectDeepLearning/blob/master/dataset_differentiate+round_2000000.zip?raw=true"
 
 
 class MathDataset(datasets.GeneratorBasedBuilder):
